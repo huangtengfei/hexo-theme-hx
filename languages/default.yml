@@ -1,0 +1,20 @@
+menu:
+  home: Home
+  archives: Archives
+  categories: Categories
+  tags: Tags
+  about: About
+
+post:
+  untitled: Untitled
+  read_more: Read More  
+
+counter:
+  tag_cloud:
+    zero: No tags
+    one: 1 tag in total
+    other: "%d tags in total"
+  category:
+    zero: No categories
+    one: 1 category in total
+    other: "%d categories in total"

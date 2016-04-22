@@ -1,0 +1,24 @@
+menu:
+  home: /
+  archives: /archives
+  # tags: /tags
+  categories: /categories
+
+# Icon fonts
+# Place your font into hx/source/fonts, specify directory-name and font-name here
+# Avialable: default | linecons | fifty-shades | feather
+icon_font: fifty-shades
+
+# Code Highlight theme
+# Available value: normal | night | night eighties | night blue | night bright
+# https://github.com/chriskempson/tomorrow-theme
+highlight_theme: night
+
+# Static files
+vendors: vendors
+css: css
+images: images  
+fonts: fonts
+
+# Theme version
+version: 0.1.1

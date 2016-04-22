@@ -1,0 +1,19 @@
+menu:
+  home: 首页
+  archives: 归档
+  categories: 分类
+  tags: 标签
+
+post: 
+  untitled: 未命名
+  read_more: 阅读全文  
+
+counter:
+  tag_cloud:
+    zero: 暂无标签
+    one: 目前共计 1 个标签
+    other: "目前共计 %d 个标签"
+  category:
+    zero: 暂无分类
+    one: 目前共计 1 个分类
+    other: "目前共计 %d 个分类"
